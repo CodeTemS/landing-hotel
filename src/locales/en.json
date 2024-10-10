@@ -1,0 +1,46 @@
+{
+  "header": {
+    "home": "Home",
+    "rooms": "Rooms",
+    "reservation": "Reservation",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Welcome to Luxury Hotel",
+    "subtitle": "Experience comfort and elegance"
+  },
+  "rooms": {
+    "title": "Our Rooms",
+    "standard": {
+      "title": "Standard Room",
+      "description": "Comfortable room with essential amenities",
+      "services": ["Free Wi-Fi", "TV", "Air Conditioning"]
+    },
+    "deluxe": {
+      "title": "Deluxe Room",
+      "description": "Spacious room with premium features",
+      "services": ["Free Wi-Fi", "Mini Bar", "Room Service", "City View"]
+    },
+    "suite": {
+      "title": "Executive Suite",
+      "description": "Luxurious suite for the ultimate experience",
+      "services": ["Free Wi-Fi", "Jacuzzi", "24/7 Concierge", "Panoramic View"]
+    }
+  },
+  "reservation": {
+    "title": "Make a Reservation",
+    "checkIn": "Check-in Date",
+    "checkOut": "Check-out Date",
+    "guests": "Number of Guests",
+    "roomType": "Room Type",
+    "submit": "Book Now",
+    "submitting": "Booking...",
+    "successMessage": "Reservation submitted successfully! Check your email for confirmation.",
+    "errorMessage": "An error occurred while submitting your reservation. Please try again."
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}

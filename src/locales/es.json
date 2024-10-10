@@ -1,0 +1,46 @@
+{
+  "header": {
+    "home": "Inicio",
+    "rooms": "Habitaciones",
+    "reservation": "Reserva",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Bienvenido al Hotel de Lujo",
+    "subtitle": "Experimenta comodidad y elegancia"
+  },
+  "rooms": {
+    "title": "Nuestras Habitaciones",
+    "standard": {
+      "title": "Habitación Estándar",
+      "description": "Habitación cómoda con servicios esenciales",
+      "services": ["Wi-Fi Gratis", "TV", "Aire Acondicionado"]
+    },
+    "deluxe": {
+      "title": "Habitación Deluxe",
+      "description": "Habitación espaciosa con características premium",
+      "services": ["Wi-Fi Gratis", "Mini Bar", "Servicio a la Habitación", "Vista a la Ciudad"]
+    },
+    "suite": {
+      "title": "Suite Ejecutiva",
+      "description": "Suite lujosa para la experiencia definitiva",
+      "services": ["Wi-Fi Gratis", "Jacuzzi", "Conserje 24/7", "Vista Panorámica"]
+    }
+  },
+  "reservation": {
+    "title": "Hacer una Reserva",
+    "checkIn": "Fecha de Entrada",
+    "checkOut": "Fecha de Salida",
+    "guests": "Número de Huéspedes",
+    "roomType": "Tipo de Habitación",
+    "submit": "Reservar Ahora",
+    "submitting": "Reservando...",
+    "successMessage": "¡Reserva enviada con éxito! Revisa tu correo electrónico para la confirmación.",
+    "errorMessage": "Ocurrió un error al enviar tu reserva. Por favor, inténtalo de nuevo."
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  }
+}
